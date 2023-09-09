@@ -215,7 +215,7 @@ article.sample-col-para img {
     height: 850px;
     top: 50%;
     margin-top: -360px;
-    background-image: linear-gradient(to top, #27daff, #3cd1ff, #50c8fd, #62bff9, #73b5f3, #8ab7f2, #9cb9f0, #acbced, #c5cbf1, #dadcf5, #eeedfa, #ffffff);
+    background-image: linear-gradient(to top, #a7e5f2, #93d0e5, #82bcd8, #74a7c9, #6992ba, #7693ba, #8194ba, #8b96b9, #aaafca, #c7c8db, #e4e3ed, #ffffff);
 	/* box-shadow: 0 0 200px 125px rgb(0,0,0,1) inset; */
     z-index: 20;
     border-radius: 1%;
