@@ -27,20 +27,20 @@ body,h1,p,figure,blockquote,dl,dd {
     display: inline-block;
     margin:2.5em;
     border-radius: 20px;
-	border: 1px solid #180eace3;
-	background-color: #180eace3;
-	color: #FFFFFF;
+	/* border: 1px solid #180eace3;
+	background-color: #180eace3; */
+	color: #000;
 	font-size:20px;
 	font-weight: bold;
 	letter-spacing: 1px;
 	text-transform: uppercase;
-	box-shadow: 0 0 10px 1px rgb(0,0,0,1) inset;
+	box-shadow: 0 0 50px 1px rgb(0,0,0,1) inset;
     transition: all 0.25s, border-color 0.25s, box-shadow 0.25s ,transform 0.25s;
     transition: color 0.25s, border-color 0.25s, box-shadow 0.25s ,transform 0.25s;
 }
 #ad1:hover,#ad2:hover,#ad3:hover{
-    border-color: #ffffff;
-    color: white;
+    border-color: white;
+    color:  black;
     box-shadow: 0 0.5em 0.5em -0.4em #ffffff;
     transform: translateY(-0.25em);
     cursor: pointer;
@@ -215,7 +215,7 @@ article.sample-col-para img {
     height: 850px;
     top: 50%;
     margin-top: -360px;
-    background-image: radial-gradient(circle, #ffffff, #ddd5ff, #bcabff, #9982ff, #7257ff, #7257ff, #7257ff, #7257ff, #9982ff, #bcabff, #ddd5ff, #ffffff);
+    background-image: linear-gradient(to top, #27daff, #3cd1ff, #50c8fd, #62bff9, #73b5f3, #8ab7f2, #9cb9f0, #acbced, #c5cbf1, #dadcf5, #eeedfa, #ffffff);
 	/* box-shadow: 0 0 200px 125px rgb(0,0,0,1) inset; */
     z-index: 20;
     border-radius: 1%;
@@ -228,7 +228,7 @@ article.sample-col-para img {
     text-align: right;
 } 
 #closeButton1,#closeButton2,#closeButton3{
-    color: #00ff37;
+    color: black;
 }
 #closeButton1:hover,#closeButton2:hover,#closeButton3:hover{
     color: #ff0000;

@@ -123,7 +123,7 @@
   }
   
   .carousel__slide:nth-child(1) {
-    background-image: url("/Images/Bilaspur/dam_1.jpg");
+    background-image: url("/Images/Bilaspur/lake_4.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -147,7 +147,7 @@
     background-size: cover;
   }
   .carousel__slide:nth-child(5) {
-    background-image: url("/Images/Kinnaur/kalpa_1.jpg");
+    background-image: url("/Images/Kinnaur/rak_5.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -159,7 +159,7 @@
     background-size: cover;
   }
   .carousel__slide:nth-child(7) {
-    background-image: url("/Images/lahaul&spiti/kibber_1.jpg");
+    background-image: url("/Images/lahaul&spiti/langza_5.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -171,13 +171,13 @@
     background-size: cover;
   }
   .carousel__slide:nth-child(9) {
-    background-image: url("/Images/Shimla/lodge_1.jpg");
+    background-image: url("/Images/Shimla/ridge_4.jpeg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
   }
   .carousel__slide:nth-child(10) {
-    background-image: url("/Images/Una/chint_3.jpg");
+    background-image: url("/Images/Mandi/parashar_1.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
